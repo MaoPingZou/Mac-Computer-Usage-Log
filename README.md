@@ -1,4 +1,5 @@
-# Mac-computer-usage-log
+# Mac-Computer-Usage-Log
+
 用于记录并分享使用 Mac 电脑的方法与技巧，提高使用 Mac 的效率。
 
 > 电脑配置如下：
