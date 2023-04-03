@@ -38,4 +38,16 @@
     |         htu          |   3次    | 300 |
 
 
+## 配置Snippets
+通过调整`settings`，可以更大的提升效率。
+
+- ⓵ 是否开启 `snippet` 扩展
+- ⓶ 是否在单词中展开
+- ⓷ 展开速度配置
+- ⓸ 注入延迟速度
+- ⓹ 展开声效
+- ⓺ 禁用 `snippet` 的应用
+
+![image](https://user-images.githubusercontent.com/43558972/229464924-107c7de8-e5aa-4cbf-9293-7ee0896316c2.png)
+
 
