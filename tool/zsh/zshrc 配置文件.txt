@@ -18,6 +18,10 @@ export PS4='+{$LINENO:${FUNCNAME[0]}}'
 # ZSH_THEME="gnzh"
 ZSH_THEME="fino-time"
 
+# --配置 autosuggest 高亮的颜色 20230403 17:52--
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=yellow'
+# --配置 autosuggest 高亮的颜色 20230403 17:52--
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in $ZSH/themes/
