@@ -11,3 +11,10 @@
 
 # 目录
 - [系统配置优化](系统级配置优化.md)
+
+
+# 优质网站
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
+  > 对新的 Mac 电脑进行配置的指南，针对程序员
+- [Mac 高效开发指南](https://xiaozhuanlan.com/Effective-Mac)
+  > 提高程序员群体 Mac 电脑使用效率的手册
