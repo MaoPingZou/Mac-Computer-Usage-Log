@@ -1,17 +1,17 @@
 本指南记录一些日常会用到的，短期看似不重要，但长期来看，能极大提升效率的扩展（extension）。
 
-- [Clipboard History](#clipboard-history)
-- [Snippets](#snippets)
+- [剪切板历史--Clipboard History](#剪切板历史--clipboard-history)
+- [文本替换--Snippets](#文本替换--snippets)
 
 </br>
 
-# Clipboard History
+# 剪切板历史--Clipboard History
 快捷键设置为 `Ctrl + Command + V`。
 > 延续了以往我使用 `CCboard` 的快捷键设置。（ `CCboard` 是一款专门管理剪贴板历史的 `Mac` 应用）。
 
 </br>
 
-# Snippets
+# 文本替换--Snippets
 可以将日常用频繁需要输入的字符，进行关键字替换。
 
 > 如果想在苹果生态中多设备共用同一套字符替换规则的话，使用苹果自带的`Text Replacements`功能是最好的。
