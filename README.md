@@ -15,6 +15,9 @@
 
 # 优质网站
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
+
   > 对新的 Mac 电脑进行配置的指南，针对程序员
 - [Mac 高效开发指南](https://xiaozhuanlan.com/Effective-Mac)
   > 提高程序员群体 Mac 电脑使用效率的手册
+- [macOS User Guide](https://support.apple.com/en-gb/guide/mac-help/welcome/mac)
+  > Apple 公司自家的 MacOS 系统用户指南
